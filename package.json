@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix-MD",
+  "name": "BABU×BOT",
   "description": "A Simple WhatsApp Bot",
   "version": "1.8.0",
   "main": "index.js",
@@ -21,7 +21,7 @@
    "terumx-bot",
    "multi-device"
   ],
-  "author": "Abhishek Suresh",
+  "author": "Shadowser",
   "license": "Apache-2.0",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.5.0",
